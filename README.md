@@ -7,6 +7,7 @@ Calculator is one of the most used application , this application can perform th
 - Substraction
 - Multiplication
 - Division
+
 The design of this Application is uploaded in dribble by author you can see the same through the link  and the lottie animation is editted by Swagata Roy author of the project from lottie Website
 
 - DRIBBLE : https://dribbble.com/shots/18974972-CALCULATOR?utm_source=Clipboard_Shot&utm_campaign=swagataroy&utm_content=CALCULATOR&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=swagataroy&utm_content=CALCULATOR&utm_medium=Social_Share
@@ -32,6 +33,7 @@ The design of this Application is uploaded in dribble by author you can see the 
 ## Author
 
 If you wish to give any opinion please connect to :
+ 
 https://www.linkedin.com/in/swagataroy09/
 
 
